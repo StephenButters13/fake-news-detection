@@ -1,2 +1,3 @@
 # ITCS
-Project 4 
+Group project
+Fake news detection 
