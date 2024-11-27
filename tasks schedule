@@ -1,0 +1,20 @@
+Collect and Preprocess Data: (Trey and Rivas 11/29)
+Gather datasets (e.g., FakeNewsNet, LIAR).
+Clean and tokenize text, extract features using TF-IDF, word embeddings, or transformers (e.g., BERT).
+
+Model Selection: (Ryan and Butters 12/1)
+Traditional: Logistic Regression, SVM.
+Deep Learning: LSTMs, Transformers (BERT, RoBERTa).
+Hybrid: Combine text features with metadata (e.g., source credibility).
+
+Train and Validate: (Eddie and Trey 12/4)
+Split data into training, validation, and test sets.
+Evaluate using metrics like accuracy, F1-score, and ROC-AUC.
+
+Evalutaion: (Rivas and Butters 12/7)
+Analyze predictions with real-world examples.
+Conduct user testing to assess usability and accuracy in practical scenarios.
+
+Storytelling, Conclusion, and Impact: (Ryan and Eddie 12/12)
+Visualize findings using dashboards (e.g., graphs of detection rates, examples of fake vs. real content).
+Summarize key insights and showcase how the system identifies patterns in fake news.
