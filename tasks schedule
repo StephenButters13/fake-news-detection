@@ -7,9 +7,9 @@ Model Selection:
 Traditional: Logit, NB
 
 (Rivas and Butters 12/5)
-Deep Learning: LSTMs, Transformers (BERT, RoBERTa).
+Deep Learning: LSTM model
 
-Train, Validate, Evaluate: (_ and _ 12/7)
+Train, Validate, Evaluate: (Traditional team and Deep Learning Team 12/7)
 Split data into training, validation, and test sets.
 Evaluate using metrics like accuracy, F1-score, and ROC-AUC.
 (Suggest branching out to SHAP values to help gain further understanding of the variables/words that are key to determine the difference between classes)
