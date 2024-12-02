@@ -3,10 +3,10 @@ Gather datasets (e.g., FakeNewsNet, LIAR).
 Clean and tokenize text, extract features using TF-IDF, word embeddings, or transformers (e.g., BERT).
 
 Model Selection:
-(_ and _ 12/5)
+(_ and Trey 12/5)
 Traditional: Logit, NB
 
-(Rivas and Butters 12/5)
+(Rivas and Butters, Trey 12/5)
 Deep Learning: LSTM model
 
 Train, Validate, Evaluate: (Traditional team and Deep Learning Team 12/7)
