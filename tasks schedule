@@ -1,4 +1,4 @@
-Collect and Preprocess Data: (Kai 12/2)
+Collect and Preprocess Data: (Kyle 12/2)
 Gather datasets (e.g., FakeNewsNet, LIAR).
 Clean and tokenize text, extract features using TF-IDF, word embeddings, or transformers (e.g., BERT).
 
