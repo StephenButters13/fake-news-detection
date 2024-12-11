@@ -14,6 +14,6 @@ Split data into training, validation, and test sets.
 Evaluate using metrics like accuracy, F1-score, and ROC-AUC.
 (Suggest branching out to SHAP values to help gain further understanding of the variables/words that are key to determine the difference between classes)
 
-Storytelling, Conclusion, and Impact: (kyle and Ryan 12/10)
+Storytelling, Conclusion, and Impact: (Eddie and Ryan 12/10)
 Visualize findings using dashboards (e.g., graphs of detection rates, examples of fake vs. real content).
 Summarize key insights and showcase how the system identifies patterns in fake news.
