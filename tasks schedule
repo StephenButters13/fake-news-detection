@@ -3,7 +3,7 @@ Gather datasets (e.g., FakeNewsNet, LIAR).
 Clean and tokenize text, extract features using TF-IDF, word embeddings, or transformers (e.g., BERT).
 
 Model Selection:
-(_ and Trey 12/5)
+(Trey 12/5)
 Traditional: Logit, NB
 
 (Rivas and Butters, Trey 12/5)
